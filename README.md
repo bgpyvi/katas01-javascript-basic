@@ -1,6 +1,6 @@
 ## Ejercicio con Testing
 
-### Por qué testing?
+### ¿Por qué testing?
 
 Cuando comienzas a programar una aplicación web, todo es bastante fácil de probar de forma manual. Pero las aplicaciones web crecen en tamaño y complejidad de forma gradual, lo cual convierte el testing manual en un proceso difícil y costoso.
 
